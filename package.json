@@ -37,7 +37,7 @@
     "expo-font": "12.0.10",
     "expo-image-picker": "15.0.7",
     "expo-modules-core": "1.12.24",
-    "expo-splash-screen": "0.27.5",
+    "expo-splash-screen": "0.27.6",
     "firebase": "^10.13.2",
     "galio-framework": "^0.8.0",
     "prop-types": "^15.7.2",
