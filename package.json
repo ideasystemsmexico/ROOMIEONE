@@ -52,7 +52,7 @@
     "react-native-screens": "3.34.0",
     "react-native-vector-icons": "^10.2.0",
     "react-native-webview": "13.12.2",
-    "expo-status-bar": "~1.4.4"
+    "expo-status-bar": "~1.12.1"
   },
   "devDependencies": {
     "babel-preset-expo": "^9.3.0",
