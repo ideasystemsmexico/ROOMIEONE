@@ -42,7 +42,7 @@
     "galio-framework": "^0.8.0",
     "prop-types": "^15.7.2",
     "react": "18.2.0",
-    "react-native": "0.74.0",
+    "react-native": "0.79.0",
     "react-native-gesture-handler": "2.19.0",
     "react-native-modal-datetime-picker": "18.0.0",
     "react-native-modal-dropdown": "1.0.2",
